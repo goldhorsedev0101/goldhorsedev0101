@@ -36,7 +36,7 @@
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=dark&hide_border=true&custom_title=Saad's%20GitHub%20Activity&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=dark&hide_border=true&custom_title=GitHub%20Activity&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ## ⭐ Featured Production Projects (Top Repositories)
