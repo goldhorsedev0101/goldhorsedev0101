@@ -10,24 +10,6 @@
   </div>
 </div>
 
-<!-- GitHub Trophy Section -->
-<div align="center">
-  <a href="https://github.com/screw-hand/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.screw-hand.vercel.app/?username=saadrehman171000&theme=dracula&row=1&column=7&no-frame=true&no-bg=true"
-      alt="GitHub Trophies"
-    />
-  </a>
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=dark&hide_border=true&custom_title=Saad's%20GitHub%20Activity&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## ⭐ Tech Stack & Skills
@@ -50,6 +32,12 @@
 <div align="left"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-00FF00?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" /> </div>
 
 ---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=dark&hide_border=true&custom_title=Saad's%20GitHub%20Activity&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
+</div>
 
 ## ⭐ Featured Production Projects (Top Repositories)
 
